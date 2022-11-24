@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf44f571-4057-44e1-9aeb-98e111b7d115" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../practice/practice10if.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice11if.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice12if.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice13return.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice14length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice15return.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice16ifelseif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice17if.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice18ifelseif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice19boolenif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice1showmessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice2variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice3string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice4substring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice5string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice6string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice7string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice8string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/practice9string.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HxCUDhRtMb5wZNqSCWhez5mCsO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf44f571-4057-44e1-9aeb-98e111b7d115" name="Changes" comment="" />
+      <created>1669217364088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669217364088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
