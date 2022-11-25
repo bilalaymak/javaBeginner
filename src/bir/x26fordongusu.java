@@ -4,9 +4,11 @@ import java.util.Scanner;
 
 public class x26fordongusu {
 
-        private static Scanner input = new Scanner(System.in);
+
 
         public static void main(String[] args) {
+            Scanner input = new Scanner(System.in);
+
             double n, ort, top;
             int i;
 

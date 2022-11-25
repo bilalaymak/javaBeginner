@@ -9,6 +9,6 @@ public class x18ifelseif {
         else
             System.out.println("x is greater than 15");
 
-        System.out.println("Outside if-else block");
+
     }
 }
