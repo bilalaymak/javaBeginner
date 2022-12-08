@@ -6,11 +6,10 @@ public class x33ATMornegi {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Bakiye giriniz");
-
         int bakiye = 1000;
         int islem;
 
+        System.out.println("Bakiye giriniz");
         System.out.println("1: Bakiye görüntüleme");
         System.out.println("2: Para yatırma");
         System.out.println("3: Para çekme");
