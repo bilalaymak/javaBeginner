@@ -14,7 +14,8 @@ public class Main {
       System.out.println("Arabanin Modeli = " + car1.getModel());
       System.out.println("Arabanin Motor Hacmi = " + car1.getEngine());
       System.out.println("Arabanin Kapi sayisi = " + car1.getDoors());
-
+      car1.start();
+      car1.stop();
 
     }
 
