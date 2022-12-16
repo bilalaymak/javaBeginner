@@ -1,4 +1,4 @@
-package uc;
+package uc.arrays;
 
 public class MultidimensionalArrays {
     public static void main(String[] args) {

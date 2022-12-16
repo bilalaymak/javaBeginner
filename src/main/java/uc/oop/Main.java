@@ -1,6 +1,6 @@
-package uc;
+package uc.oop;
 
-import uc.Car;
+import uc.oop.Car;
 
 public class Main {
     public static void main(String[] args) {

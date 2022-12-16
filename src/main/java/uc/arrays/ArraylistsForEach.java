@@ -1,4 +1,4 @@
-package uc;
+package uc.arrays;
 
 import java.util.ArrayList;
 
