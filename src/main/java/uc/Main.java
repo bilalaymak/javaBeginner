@@ -1,4 +1,6 @@
-package oop;
+package uc;
+
+import uc.Car;
 
 public class Main {
     public static void main(String[] args) {

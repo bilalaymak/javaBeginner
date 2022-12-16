@@ -1,4 +1,4 @@
-package oop;
+package uc;
 
 public class Car {
     //fields, properties

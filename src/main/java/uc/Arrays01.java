@@ -1,4 +1,4 @@
-package oop;
+package uc;
 
 import java.util.Scanner;
 
